@@ -6,7 +6,7 @@
       - Android + Jetpack Compose
       - iOS + Swift UI
       - Kotlin Multiplatform
-      - Ktor Backend development
+      - Backend development with Ktor
       
 - 📫 How to reach me mwai.developer@gmail.com
 
