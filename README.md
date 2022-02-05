@@ -2,7 +2,7 @@
 - 👀 I’m interested in Kotlin & Swift
 - 🌱 I’m currently learning full-stack mobile development
 
--    I'm actively getting better & learning in any of these:
+-    I'm actively getting better & learning any of these(in no particular order):
       - Android + Jetpack Compose
       - iOS + Swift UI
       - Kotlin Multiplatform
