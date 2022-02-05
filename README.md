@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @MwaiBanda
 - 👀 I’m interested in Kotlin & Swift
 - 🌱 I’m currently learning full-stack mobile development
-- 💞️ I’m looking to collaborate on iOS & Android projects in SwiftUI & Compose
+-    I'm currently trying to get better in any of these:
+      Android + Jetpack Compose
+      iOS + Swift UI
+      Kotlin Multiplatform
+      Ktor Backend development
 - 📫 How to reach me mwai.developer@gmail.com
 
 <!---
