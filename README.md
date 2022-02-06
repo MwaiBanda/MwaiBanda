@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MwaiBanda
-- 👀 I’m <3 Kotlin & Swift
+- 👀 I ❤️ Kotlin & Swift
 - 🌱 I’m currently learning full-stack mobile development
 
 -    I'm actively getting better & learning any of these(in no particular order):
