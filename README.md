@@ -6,7 +6,7 @@
       - Android + Jetpack Compose
       - iOS + Swift UI
       - Kotlin Multiplatform
-      - Backend development with Ktor
+      - Backend development with Kotlin
 
 - ## Featured Projects
 
