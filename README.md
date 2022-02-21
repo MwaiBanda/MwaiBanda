@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MwaiBanda
+- 👋 Hi, I’m Mwai Banda
 - 👀 I ❤️ Kotlin & Swift
 - 🌱 I make iOS & Android Apps:
 ### Platform & Tools
