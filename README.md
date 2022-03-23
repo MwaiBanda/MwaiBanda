@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mwai Banda
 - 👀 I ❤️ Kotlin & Swift
-- 🌱 I build iOS & Android Apps:
+- 🌱 I build iOS & Android Apps: 
 ### Platform & Tools
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -10,7 +10,6 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
  
- ![](https://komarev.com/ghpvc/?username=MwaiBanda&color=blueviolet&label=visits)
   <img align="left" alt="Mwai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MwaiBanda&show_icons=true&hide_border=true&show_icons=true&count_private=true" />
 
   <img align="left" alt="Mwai's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwaiBanda&hide_border=true&show_icons=true&count_private=true" /><br>
@@ -50,6 +49,9 @@
  </table>
 
 - 📫 How to reach me mwai.developer@gmail.com
+<br><br>
+![](https://komarev.com/ghpvc/?username=MwaiBanda&color=blueviolet&label=Profile+Views)
+
 
 <!---
 MwaiBanda/MwaiBanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
