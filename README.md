@@ -9,10 +9,17 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+ 
+ ![](https://komarev.com/ghpvc/?username=MwaiBanda&color=blueviolet&label=number)
+  <img align="left" alt="Mwai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MwaiBanda&show_icons=true&hide_border=true&show_icons=true&count_private=true" />
 
-## Featured Work
+  <img align="left" alt="Jarroyo's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwaiBanda&hide_border=true&show_icons=true&count_private=true" /><br>
 
 <table>
+  <tr>
+    <th colspan="2"> <b>Featured Work</b> </th>
+    
+  </tr>
   <tr>
     <td>Virtual Groceries</td>
      <td>WPRK</td>
