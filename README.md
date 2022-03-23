@@ -12,7 +12,7 @@
  
   <img align="left" alt="Mwai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MwaiBanda&show_icons=true&hide_border=true&show_icons=true&count_private=true&title_color=24292F&text_color=24292F&icon_color=808080" />
 
-  <img align="left" alt="Mwai's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwaiBanda&hide_border=true&show_icons=true&count_private=true&title_color=000000&text_color=000000" /><br>
+  <img align="left" alt="Mwai's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwaiBanda&hide_border=true&show_icons=true&count_private=true&title_color=24292F&text_color=24292F" /><br>
 
 <table>
   <tr>
