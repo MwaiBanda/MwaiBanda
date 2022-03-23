@@ -10,9 +10,9 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
  
-  <img align="left" alt="Mwai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MwaiBanda&show_icons=true&hide_border=true&show_icons=true&count_private=true" />
+  <img align="left" alt="Mwai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MwaiBanda&show_icons=true&hide_border=true&show_icons=true&count_private=true&title_color=24292F&text_color=24292F&icon_color=808080" />
 
-  <img align="left" alt="Mwai's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwaiBanda&hide_border=true&show_icons=true&count_private=true" /><br>
+  <img align="left" alt="Mwai's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwaiBanda&hide_border=true&show_icons=true&count_private=true&title_color=000000&text_color=000000" /><br>
 
 <table>
   <tr>
