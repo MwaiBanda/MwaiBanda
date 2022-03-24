@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Mwai Banda
+<h1 align="center">Hi there, I'm <a href="https://mwaibanda.com/portfolio" target="_blank">Mwai Banda</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+
 - 👀 I ❤️ Kotlin & Swift
 - 🌱 I build iOS & Android Apps: 
 ### Platform & Tools
@@ -48,10 +50,11 @@
       </tr>
  </table>
 
-- 📫 How to reach me mwai.developer@gmail.com
-<br><br>
+- 📫 How to reach me: <br>
+[![Email](https://img.shields.io/badge/Email-%40mwai.developer@gmail.com%20-blue)](mailto:mwai.developer@gmail.com?)
+[![Twitter: mwaibanda1](https://img.shields.io/twitter/follow/mwaibanda1?style=social)](https://twitter.com/mwaibanda1)<br>
+[![Linkedin: mwai-banda](https://img.shields.io/badge/mwai-banda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwai-banda/)](https://www.linkedin.com/in/mwai-banda/)<br>
 ![](https://komarev.com/ghpvc/?username=MwaiBanda&color=blueviolet&label=Profile+Views)
-
 
 <!---
 MwaiBanda/MwaiBanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
