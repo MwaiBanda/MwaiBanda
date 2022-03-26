@@ -2,7 +2,7 @@
 src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-4143-bff3-c17381d3f58e.gif" height="33" /></h1>
 
 - 👀 I ❤️ Kotlin & Swift
-- 🌱 I design, develop & deploy end-to-end solutions Native Applications for Android, iOS & iPadOS.
+- 🌱 I design, develop & deploy end-to-end native solutions for Android, iOS & iPadOS.
 ### 🛠 Languages & Tools:
 <p align="center">
 
