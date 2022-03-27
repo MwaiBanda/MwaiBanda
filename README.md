@@ -82,6 +82,8 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
         SwiftUI
         Jetpack Compose
         Stripe w/ Apple Pay & Google Pay
+        MapKit
+        Google Maps
         Firebase
         LottieAnimations
         Coil
