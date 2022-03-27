@@ -38,7 +38,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
    <code>
        <table border="0" cellspacing="0" cellpadding="0">
              <tr>
-    <th colspan="2"> <b>Virtual Groceries</b> </th>
+    <th colspan="2"> <b>Virtual Groceries - Grocery Delivery</b> </th>
     
   </tr>
   <tr style="border-collapse: collapse; border: none;">   
@@ -51,7 +51,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
     <code>
       <table border="0" cellspacing="0" cellpadding="0">
              <tr>
-    <th colspan="2"> <b>WPRK</b> </th>
+    <th colspan="2"> <b>WPRK - Podcast & Radio Streaming</b> </th>
     
   </tr>
   <tr style="border-collapse: collapse; border: none;">   
@@ -67,7 +67,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
    <code>
           <table align="left" border="0" cellspacing="0" cellpadding="0">
              <tr>
-    <th colspan="2"> <b>Virtual Groceries</b> </th>
+    <th colspan="2"> <b>Virtual Groceries - Grocery Delivery</b> </th>
     
   </tr>
   <tr style="border-collapse: collapse; border: none;">   
@@ -79,7 +79,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
     <code>
       <table align="right" cellspacing="0" cellpadding="0">
                 <tr>
-    <th colspan="2"> <b>WPRK</b> </th>
+    <th colspan="2"> <b>WPRK - Podcast & Radio Streaming</b> </th>
     
   </tr>
   <tr>   
