@@ -100,7 +100,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
 
   <div align="center">
    <code>
- 
+<br><br> 
  📫 How to reach me: <br><br>
      
 [![Email](https://img.shields.io/badge/Email-%40mwai.developer@gmail.com%20-blue)](mailto:mwai.developer@gmail.com?)
