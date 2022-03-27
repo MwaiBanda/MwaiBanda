@@ -38,7 +38,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
    <code>
        <table border="0" cellspacing="0" cellpadding="0">
              <tr>
-    <th colspan="2"> <b>Virtual Groceries - Grocery Delivery</b> </th>
+    <th colspan="2"> <b>Virtual Groceries(Android, iOS & iPadOS)</b> </th>
     
   </tr>
   <tr style="border-collapse: collapse; border: none;">   
@@ -51,11 +51,11 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
     <code>
       <table border="0" cellspacing="0" cellpadding="0">
              <tr>
-    <th colspan="2"> <b>WPRK - Podcast & Radio Streaming</b> </th>
+    <th colspan="2"> <b>WPRK - Podcast & Radio(Android, iOS & iPadOS)</b> </th>
     
   </tr>
   <tr style="border-collapse: collapse; border: none;">   
-     <td> <a href="https://apps.apple.com/us/app/wprk/id1588434109"  target="_blank" rel="noopener noreferrer">  <img src="https://user-images.githubusercontent.com/49708426/152665229-1dd18b3a-e68a-4a9f-9a7a-16ae799d9776.gif" width=350 height=450></a></td>
+     <td> <a href="https://github.com/MwaiBanda/WPRK-MultiPlatform"  target="_blank" rel="noopener noreferrer">  <img src="https://user-images.githubusercontent.com/49708426/152665229-1dd18b3a-e68a-4a9f-9a7a-16ae799d9776.gif" width=400 height=500></a></td>
     
   </tr>
 </table>
