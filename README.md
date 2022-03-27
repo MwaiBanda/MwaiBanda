@@ -67,24 +67,67 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
    <code>
           <table align="left" border="0" cellspacing="0" cellpadding="0">
              <tr>
-    <th colspan="2"> <b>Virtual Groceries - Grocery Delivery</b> </th>
+    <th colspan="2"> <b>Virtual Groceries - Grocery Delivery (Android, iOS & iPadOS)</b> </th>
     
   </tr>
   <tr style="border-collapse: collapse; border: none;">   
      <td> <a href="https://apps.apple.com/us/app/virtual-groceries/id1571855636"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/49708426/137259580-5fbacaac-7fd3-4946-9412-7f1447e19075.png" width=150 height=45></a></td>
     <td><a href="https://play.google.com/store/apps/details?id=com.mwaibanda.virtualgroceries"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/49708426/152633576-d28488c9-68e1-4d5e-9922-b502e74d5c00.png"  width=150 height=70></a></td>
   </tr>
+        <tr>   
+     <td colspan="2"> 
+       <p>Architecture & Stack</p>
+       <pre>
+        Kotlin Multiplaform
+        SwiftUI
+        Jetpack Compose
+        Stripe w/ Apple Pay & Google Pay
+        Firebase
+        LottieAnimations
+        Coil
+        SDWebImage 
+        Hilt
+        Koin
+        Retrofit
+        Ktor Client
+        Networking 
+        MVVM
+        Clean Architecture
+       </pre>
+     </td>
+  </tr>
 </table>
   </code>
     <code>
       <table align="right" cellspacing="0" cellpadding="0">
                 <tr>
-    <th colspan="2"> <b>WPRK - Podcast & Radio Streaming</b> </th>
+    <th colspan="2"> <b>WPRK - Podcast & Radio (Android, iOS & iPadOS)</b> </th>
     
   </tr>
   <tr>   
      <td> <a href="https://apps.apple.com/us/app/wprk/id1588434109"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/49708426/137259580-5fbacaac-7fd3-4946-9412-7f1447e19075.png" width=150 height=45></a></td>
     <td><a href="https://play.google.com/store/apps/details?id=com.muse.wprk"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/49708426/152633576-d28488c9-68e1-4d5e-9922-b502e74d5c00.png"  width=150 height=70></a></td>
+  </tr>
+        <tr>   
+     <td colspan="2"> <a href=""> Github Repo </a><br>
+       <p>Architecture & Stack</p>
+       <pre>
+        Kotlin Multiplaform
+        SwiftUI
+        Jetpack Compose
+        Exoplayer
+        AVPlayer
+        LottieAnimations
+        Coil
+        SDWebImage 
+        Hilt
+        Koin
+        Retrofit
+        Networking 
+        MVVM
+        Clean Architecture
+       </pre>
+     </td>
   </tr>
 </table>
   </code>
@@ -93,14 +136,14 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
   
 
 
-<p align="center">
+<p align="left">
 
-  <div align="center">
+  <div align="left">
    <code>
 <br><br> 
- 📫 How to reach me: <br><br>
+<br><br>
      
-[![Email](https://img.shields.io/badge/Email-%40mwai.developer@gmail.com%20-blue)](mailto:mwai.developer@gmail.com?)
+[![Email](https://img.shields.io/badge/Email-%40mwai.developer@gmail.com%20-blue)](mailto:mwai.developer@gmail.com?)<br>
 [![Twitter: mwaibanda1](https://img.shields.io/twitter/follow/mwaibanda1?style=social)](https://twitter.com/mwaibanda1)<br>
 [![Linkedin: mwai-banda](https://img.shields.io/badge/mwai-banda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwai-banda/)](https://www.linkedin.com/in/mwai-banda/)<br>
 ![](https://komarev.com/ghpvc/?username=MwaiBanda&color=blue&label=Profile+Views)
