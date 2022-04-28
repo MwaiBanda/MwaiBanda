@@ -78,7 +78,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
      <td colspan="2"> 
        <p>Architecture & Stack</p>
        <pre>
-        Kotlin Multiplaform
+        Kotlin Multiplatform
         SwiftUI
         Jetpack Compose
         Stripe w/ Apple Pay & Google Pay
@@ -118,7 +118,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
        <a href="https://github.com/MwaiBanda/WPRK-MultiPlatform"> Github Repo </a><br>
        <p>Architecture & Stack</p>
        <pre>
-        Kotlin Multiplaform
+        Kotlin Multiplatform
         SwiftUI
         Jetpack Compose
         Exoplayer
@@ -129,7 +129,6 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
         Hilt
         Koin
         Retrofit
-        Networking 
         MVVM
         Clean Architecture
         Caching
