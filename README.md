@@ -3,7 +3,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
 
 - 👀 I ❤️ Kotlin & Swift
 - 🌱 I design, develop & deploy end-to-end native solutions for Android, iOS & iPadOS.
-- 📝 I'm enamored with design, its ability to shape reality, the journey from idea to concept, and then to product. All while being authentic & original, empathizing with the end-user to provide an experience that's uniquely tailored to meet that one user's need while fulfilling the business
+- 📝 I'm enamored with design, its ability to shape reality, the journey from idea to concept, and then to product. All while being authentic & original, empathizing with the end-user to provide an experience that's uniquely tailored to meet that one user's need while fulfilling the business requirement.
 ### 🛠 Languages & Tools:
 <p align="center">
 
