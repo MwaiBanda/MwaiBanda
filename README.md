@@ -110,7 +110,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
   </tr>
         <tr>   
      <td colspan="2"> 
-       <p>40+ Five Star Reviews & 500+ Downloads</p>
+       <p>45+ Five Star Reviews & 500+ Downloads</p>
        <a href="https://github.com/MwaiBanda/WPRK-MultiPlatform"> Github Repo </a><br>
        <p>Architecture & Stack</p>
        <pre>
