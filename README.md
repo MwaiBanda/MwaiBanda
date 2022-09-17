@@ -22,9 +22,6 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
   <img align="center" alt="Mwai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MwaiBanda&show_icons=true&hide_border=true&show_icons=true&count_private=true&title_color=24292F&text_color=24292F&icon_color=808080" />
 
   <img align="right" alt="Mwai's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwaiBanda&hide_border=true&show_icons=true&count_private=true&title_color=24292F&text_color=24292F" /><br>
- 
- 
- 
 
 <p align="center">
        <h3 align="center">Featured Work</h3>
