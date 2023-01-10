@@ -103,10 +103,12 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
   </tr>
         <tr>   
      <td colspan="2"> 
-     <p align="left">
-60+ Five Star Reviews & 500+ Downloads <br>
-<span><a href="https://github.com/MwaiBanda/WPRK-MultiPlatform">Github Repo</a></span<br>
-Architecture & Stack</p>
+       <div>
+    <p>
+    60+ Five Star Reviews & 500+ Downloads <br>
+    <span><a href="https://github.com/MwaiBanda/WPRK-MultiPlatform">Github Repo</a></span<br>
+    Architecture & Stack
+     </p>
        <pre>
         Kotlin Multiplatform
         SwiftUI
@@ -123,6 +125,7 @@ Architecture & Stack</p>
         Clean Architecture
         Caching
        </pre>
+       </div>
      </td>
   </tr>
 </table>
