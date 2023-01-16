@@ -106,7 +106,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
        <div>
     <p>
     60+ Five Star Reviews & 500+ Downloads <br>
-    <span><a href="https://github.com/MwaiBanda/WPRK-MultiPlatform">Github Repo</a></span<br>
+    <span><a href="https://github.com/MwaiBanda/WPRK-MultiPlatform">Repository</a></span<br>
     Architecture & Stack
      </p>
        <pre>
@@ -147,7 +147,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
 [![Linkedin: mwai-banda](https://img.shields.io/badge/mwai-banda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwai-banda/)](https://www.linkedin.com/in/mwai-banda/) ![](https://komarev.com/ghpvc/?username=MwaiBanda&color=blue&label=Profile+Views)
     </code>
      </div>
-
+ 
 <!---
 MwaiBanda/MwaiBanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
