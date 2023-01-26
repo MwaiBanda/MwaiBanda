@@ -15,7 +15,18 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
   </div>
   </p>
  
-  <img align="center" alt="Mwai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MwaiBanda&show_icons=true&hide_border=true&show_icons=true&count_private=true&title_color=24292F&text_color=24292F&icon_color=808080" />
+ <picture align="center">
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=MwaiBanda&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=MwaiBanda&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 
   <img align="right" alt="Mwai's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwaiBanda&hide_border=true&show_icons=true&count_private=true&title_color=24292F&text_color=24292F" /><br>
 
@@ -105,7 +116,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
      <td colspan="2"> 
        <div>
     <p>
-    60+ Five Star Reviews & 500+ Downloads <br>
+    60+ Five Star Reviews & 800+ Downloads <br>
     <span><a href="https://github.com/MwaiBanda/WPRK-MultiPlatform">Repository</a></span<br>
     Architecture & Stack
      </p>
@@ -132,6 +143,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
   </code>
      </div>
   </p>
+
   
 
   <br><br> 
