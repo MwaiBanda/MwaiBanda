@@ -29,7 +29,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
 </picture>
 
 
-  <img align="right" alt="Mwai's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwaiBanda&hide=ruby,objective-c&hide_border=true&show_icons=true&langs_count=8count_private=true&title_color=24292F&text_color=24292F" /><br>
+  <img align="right" alt="Mwai's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwaiBanda&hide=ruby,ejs&hide_border=true&show_icons=true&langs_count=10&count_private=true&title_color=24292F&text_color=24292F" /><br>
 
 <p align="center">
        <h3 align="center">Featured Work</h3>
