@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://mwaibanda.com/portfolio" target="_blank">Mwai Banda</a> <img
 src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-4143-bff3-c17381d3f58e.gif" height="33" /></h1>
  
-- 👀 I ❤️ Kotlin & Swift
-- 🌱 I design, develop & deploy end-to-end native solutions for Android, iOS & iPadOS.
+- 🌱 I design, develop & deploy end-to-end solutions for Android, iOS, iPadOS & Web.
 - 📝 I'm enamored with design, its ability to shape reality, the journey from idea to concept, and then to product. All while being authentic & original, empathizing with the end-user to provide an experience that's uniquely tailored to meet that one user's need while fulfilling the business requirement.
 ### 🛠 Languages & Tools:
 <p align="center">
