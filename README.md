@@ -38,7 +38,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
    <code>
        <table border="0" cellspacing="0" cellpadding="0">
              <tr>
-    <th colspan="2"> <b>Momentum(Android, iOS & iPadOS)</b> </th>
+    <th colspan="2"> <b>Momentum - Payments & Video (Android, iOS & iPadOS)</b> </th>
     
   </tr>
   <tr style="border-collapse: collapse; border: none;">   
