@@ -42,7 +42,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
     
   </tr>
   <tr style="border-collapse: collapse; border: none;">   
-     <td> <a href="https://apps.apple.com/us/app/virtual-groceries/id1571855636"  target="_blank" rel="noopener noreferrer"> <img src="https://github.com/MwaiBanda/Momentum/assets/49708426/bcfb2456-f8d1-4676-b090-80a29e4a44e2" width=350 height=450></a></td>
+     <td> <a href="https://github.com/MwaiBanda/Momentum"  target="_blank" rel="noopener noreferrer"> <img src="https://github.com/MwaiBanda/Momentum/assets/49708426/bcfb2456-f8d1-4676-b090-80a29e4a44e2" width=350 height=450></a></td>
     
   </tr>
 </table>
