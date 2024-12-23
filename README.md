@@ -108,7 +108,7 @@ src="https://user-images.githubusercontent.com/49708426/160068392-4cf11761-8033-
     
   </tr>
   <tr>   
-    <td><a href="https://play.google.com/store/apps/details?id=com.muse.wprk"  target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/49708426/152633576-d28488c9-68e1-4d5e-9922-b502e74d5c00.png"  width=150 height=70></a></td>
+ 
   </tr>
         <tr>   
      <td colspan="2"> 
